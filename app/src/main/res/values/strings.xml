@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">IS4447CurrencyConverterApp</string>
+
+    <string name="result">Result</string>
+    <string name="enter_temperature">Enter Temperature</string>
+
+
+    <string-array name="Currecny_Type">
+        <item>Please Select</item>
+        <item>USD</item>
+        <item>Euro</item>
+        <item>Pound</item>
+    </string-array>
+
+</resources>
